@@ -1,0 +1,23 @@
+{
+  "favoriteColors": [
+    "#c00000",
+    "#ff0000",
+    "#ffc000",
+    "#ffff00",
+    "#92d050",
+    "#00b050",
+    "#00bbff",
+    "#0070c0",
+    "#002060",
+    "#7030a0"
+  ],
+  "colorArr": [
+    "#00b050",
+    "#f97676",
+    "#00bbff",
+    "#e2ff0a",
+    "rgb(15, 255, 183)"
+  ],
+  "colorCellCount": "9",
+  "hidePlugin": true
+}

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"b05d4263669c1ed9","x":1005,"y":104,"width":250,"height":60,"type":"text","text":""},
+		{"id":"ed8d194a38c8a00a","type":"text","text":"working of the trash uni project!!!!!","x":-200,"y":-440,"width":250,"height":60},
+		{"id":"9b44dd41f2f44ab5","type":"text","text":"Functional Components","x":68,"y":-248,"width":250,"height":60,"color":"6"},
+		{"id":"cbaf983db18174ab","type":"text","text":"Product Table/List\n- Each row/card includes:\n1. Product image + name\n2. Category/brand\n3. Lowest price highlighted\n4. List of shops with prices in a small dropdown/modal","x":-655,"y":-26,"width":600,"height":230,"color":"5"},
+		{"id":"76a93108c665af49","type":"text","text":"**Header**\n1. Navigation links to Home, Categories, Admin Panel (if logged in)\n\n2. Optional login/logout buttons","x":-655,"y":-188,"width":745,"height":124,"color":"5"},
+		{"id":"411b5ba39a217856","type":"text","text":"Featured Products:\n1. Carousel of trending products.\n2. Shows lowest price dynamically from multiple shops.","x":-655,"y":241,"width":580,"height":133,"color":"6"},
+		{"id":"d43def3fa1207623","type":"text","text":"SEARCH BAR!!!\n1. Filters product by name, category, or brand.\n2. Updates the product list dynamically.","x":-655,"y":411,"width":475,"height":131,"color":"#981668"}
+	],
+	"edges":[]
+}
