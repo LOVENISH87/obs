@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "755f55c9bb134a55",
+        "id": "2ec815181bfb6099",
         "type": "tabs",
         "children": [
           {
-            "id": "fb0890bd317f6339",
+            "id": "1425e5b0a604e19e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASCII.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ASCII"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -183,19 +179,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "fb0890bd317f6339",
+  "active": "1425e5b0a604e19e",
   "lastOpenFiles": [
-    "Postgress.md",
-    "list.base",
-    "Untitled 1.base",
-    "Untitled.canvas",
-    "ASCII.md",
+    "GROUP PROJ!!!.canvas",
     "batman.md",
     "CPP again.md",
+    "lc stufff.canvas",
+    "Postgress.md",
+    "ASCII.md",
+    "list.base",
+    "Untitled 1.base",
     "GitHub.md",
     "Node version.md",
     "node + mongo.md",
-    "GROUP PROJ!!!.canvas",
     "Savile-Row-Full-Panel.zip",
     "Hash-Map.md",
     "Perfix sum!!.md",
