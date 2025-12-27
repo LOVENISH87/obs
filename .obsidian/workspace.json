@@ -8,13 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1425e5b0a604e19e",
+            "id": "6e38a2da1cf431f2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "sockets .io!!!.canvas",
+                "viewState": {
+                  "x": 2263.1999999999994,
+                  "y": 3275.6600000000026,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "sockets .io!!!"
             }
           }
         ]
@@ -179,22 +186,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "1425e5b0a604e19e",
+  "active": "6e38a2da1cf431f2",
   "lastOpenFiles": [
-    "GROUP PROJ!!!.canvas",
+    "socket.io.md",
+    "redux.react.md",
+    "node viva.md",
+    "trash.md",
+    "sockets .io!!!.canvas",
+    "Untitled.base",
+    "timeStamp.md",
     "batman.md",
-    "CPP again.md",
-    "lc stufff.canvas",
-    "Postgress.md",
+    "Node version.md",
+    "node +   mongo.md",
+    "node + mongo.md",
+    "LogiTrack ->.md",
     "ASCII.md",
+    "CPP again.md",
+    "Postgress.md",
+    "Perfix sum!!.md",
     "list.base",
+    "GROUP PROJ!!!.canvas",
+    "lc stufff.canvas",
     "Untitled 1.base",
     "GitHub.md",
-    "Node version.md",
-    "node + mongo.md",
     "Savile-Row-Full-Panel.zip",
     "Hash-Map.md",
-    "Perfix sum!!.md",
     "Welcome.md"
   ]
 }

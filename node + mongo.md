@@ -1,6 +1,6 @@
 mongo in node1!!
 [[batman]]
-
+[[socket.io]]
 create a db -> <mark style="background: #ABF7F7A6;">use db</mark>, it will create db database 
 
 <mark style="background: #ADCCFFA6;">show collections</mark> will show collection "json data stored in database!!"

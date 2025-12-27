@@ -9,7 +9,7 @@
 - [?] models
 - [x] routes
 - [x] middleware
-- [ ] c<mark style="background: #ABF7F7A6;">ookies Shyt!!!</mark> 
+- [ ] <mark style="background: #ABF7F7A6;">Cookies Shyt!!!</mark> 
 
 
 to create product data in product.js use this -> 
