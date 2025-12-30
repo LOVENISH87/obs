@@ -31,7 +31,9 @@
 		{"id":"f0533c1da5ab6cf2","type":"text","text":"socket.on(btn, (n)=> {\n\n}","x":197,"y":2900,"width":363,"height":120},
 		{"id":"92003133158d5c04","type":"text","text":"io -> pura\n\nsocket -> users\n\n\nio.emit - > sabko jana chiye  (comment link to get that!!)\n\nsocket.emit -> only to that user!! tujhe link milega\n\n\nsocket.brodcast.emit () -> jo socket hai usko nhi baki sbko link milega!!!\n\nto (presonal message ash to lobbster && prashant to guru ji && varun to sattu!!)\n-  socket.to(room_id).emit\n- to trigger event for particular room\n\njoin to join a room\n- socket.join(room_name)","x":-852,"y":3340,"width":1506,"height":758,"color":"2"},
 		{"id":"bb9a02f35f78291f","type":"text","text":"client -> \n\nuse this for state management -!!!\n- const socket = useMemo(() => io(\"http://localhost:4800\"), []);\n\nsocket.on(connect , ()=> connected)\n\n\nsocket.on(\"same_thing_as_Present_in_server!!!\" , (msg <- this is from state!!)  =>{\n\t\t\t\t\tconsole.log(msg)\n})\n\n\nsocket.on(disconnect , () => disconnected)","x":1560,"y":2871,"width":820,"height":729,"color":"6"},
-		{"id":"a8f2e482e3c4093a","x":2480,"y":2871,"width":560,"height":729,"color":"4","type":"text","text":"server -> \nimport createServer from 'http'\n\nconst server = createServre(app);\nconst io = new Server(server, {\ncors:{\n\torigin: -> react url\n\tmethod: \"POST\" , \"GET\"\n\t}\n})\n\nio.on('connection'){\n\nsocker.on('message' <-< same as react , (data from cilent) =>{\n\t\t\tconsloe.log(data);\n})\n\nio.on('disconnect' , () =>{\nclog(\"disconnected connection!!!)\n})\n\n}\n"}
+		{"id":"a8f2e482e3c4093a","x":2480,"y":2871,"width":560,"height":729,"color":"4","type":"text","text":"server -> \nimport createServer from 'http'\n\nconst server = createServre(app);\nconst io = new Server(server, {\ncors:{\n\torigin: -> react url\n\tmethod: \"POST\" , \"GET\"\n\t}\n})\n\nio.on('connection'){\n\nsocker.on('message' <-< same as react , (data from cilent) =>{\n\t\t\tconsloe.log(data);\n})\n\nio.on('disconnect' , () =>{\nclog(\"disconnected connection!!!)\n})\n\n}\n"},
+		{"id":"e3df31c3ee0bcce3","x":1160,"y":2960,"width":303,"height":180,"type":"text","text":"socket.on \nfollow the same methods which are present in backend@"},
+		{"id":"694fee93d1772f6a","x":3160,"y":2940,"width":250,"height":186,"type":"text","text":"io server\n\nsocket.on only for data from client!!!"}
 	],
 	"edges":[
 		{"id":"0890195a98ffa3fe","fromNode":"d037854ee612e23e","fromSide":"left","toNode":"3d7af3675c15f10a","toSide":"right"},
@@ -40,6 +42,8 @@
 		{"id":"61af1e36c5c4f056","fromNode":"5980a3b66abe0142","fromSide":"right","toNode":"9d77f1361bf1b9a7","toSide":"left"},
 		{"id":"55d3f8398c91108c","fromNode":"ff139e6f5155d77e","fromSide":"right","toNode":"794cfae7775be014","toSide":"left"},
 		{"id":"3257e8e771f2337e","fromNode":"794cfae7775be014","fromSide":"left","toNode":"ff139e6f5155d77e","toSide":"right"},
-		{"id":"b9a7cd5ecdb620b5","fromNode":"1a9c40411424849c","fromSide":"right","toNode":"656a5458d4459c78","toSide":"left"}
+		{"id":"b9a7cd5ecdb620b5","fromNode":"1a9c40411424849c","fromSide":"right","toNode":"656a5458d4459c78","toSide":"left"},
+		{"id":"1b2ce6cdd874037c","fromNode":"bb9a02f35f78291f","fromSide":"left","toNode":"e3df31c3ee0bcce3","toSide":"right"},
+		{"id":"a6fca53f36151b1a","fromNode":"a8f2e482e3c4093a","fromSide":"right","toNode":"694fee93d1772f6a","toSide":"left"}
 	]
 }
