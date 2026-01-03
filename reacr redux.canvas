@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"d680f5d36481c6f2","type":"text","text":"src -> redux ","x":-780,"y":-380,"width":250,"height":60},
+		{"id":"2469a37cc8a78ce6","type":"text","text":"store.js ","x":-530,"y":-280,"width":250,"height":60},
+		{"id":"6867c382b42402c7","type":"text","text":"configure store just add that bithc from redux - toolkit1!!!!\n\nconst store = confStore({\n\treducer:{\n\t\t\n\t}\n})\n****\n\n\nafter everything just export!!","x":-204,"y":-167,"width":624,"height":447},
+		{"id":"a64a4442158735cd","type":"text","text":"slices!!!!\n\n\ncomment \nshare\nslice\n\n< features!! >","x":-635,"y":-1,"width":375,"height":321},
+		{"id":"7c5ec689c6eb905f","type":"file","file":"Pasted image 20260101131807.png","x":440,"y":-400,"width":656,"height":200},
+		{"id":"3ff198939f58cd00","type":"text","text":"dispatch nikal","x":808,"y":68,"width":250,"height":60},
+		{"id":"5b3eae3dd2a2c358","type":"file","file":"james.md","x":-140,"y":-2720,"width":934,"height":500},
+		{"id":"3f378805e7da85b0","x":322,"y":-2604,"width":250,"height":60,"type":"text","text":""},
+		{"id":"9bc83295ca511c4f","x":-1240,"y":-3120,"width":680,"height":600,"color":"6","type":"text","text":"## 4-question decision rule (critical)\n\nBefore writing code, ask:\n\n1. **Where does data live?**\n    \n    - Local → `useState`\n        \n    - Global → Redux\n        \n2. **Is it one value or many?**\n    \n    - One → string / number\n        \n    - Many → array\n        \n3. **What can I do to it?**\n    \n    - Add → `push`\n        \n    - Remove → `filter` / `splice`\n        \n    - Update → direct assign (RTK allows this)\n        \n4. **Who needs it?**\n    \n    - One component → React state\n        \n    - Many components → Redux\n        \n\nThis prevents 90% of confusion."},
+		{"id":"d8e65b8cb1175cb2","x":299,"y":-3781,"width":621,"height":361,"type":"text","text":"### Redux slice template (burn this in)\n\n```js\ncreateSlice({\n  name: \"\",\n  initialState: {},\n  reducers: {\n    actionName: (state, action) => {}\n  }\n})\n```"},
+		{"id":"4ffff5d7b1c38f94","x":1160,"y":-3526,"width":686,"height":212,"type":"text","text":"Payload always comes from:\n\n```js\ndispatch(actionName(payload))\n```"},
+		{"id":"2045590f602eef38","x":780,"y":-3180,"width":700,"height":220,"type":"text","text":"### React + Redux wiring template\n\n```js\nconst value = useSelector(state => state.sliceName.value)\nconst dispatch = useDispatch()\n```"},
+		{"id":"f2fc792a26a4ca66","x":-800,"y":-3650,"width":820,"height":50,"type":"text","text":"**State lives somewhere → events change it → UI reflects it**"},
+		{"id":"492a82dfa0c3a511","x":-1380,"y":-3780,"width":472,"height":50,"type":"text","text":"slice -> features (state management)"},
+		{"id":"088aca99b0383c25","x":-1360,"y":-3860,"width":680,"height":50,"type":"text","text":"reducer -> increment/decrement functions\n"},
+		{"id":"bcf8c0a6a819d872","x":-1375,"y":-3927,"width":555,"height":50,"type":"text","text":"action ->  wrapper over the events!!!"},
+		{"id":"1b87bcc79d97e3a8","x":-1366,"y":-3720,"width":445,"height":50,"type":"text","text":"store -> single source of data "},
+		{"id":"094c79c78e3dbf87","x":-1085,"y":-4087,"width":305,"height":50,"type":"text","text":"dispatch!!!! on ui"}
+	],
+	"edges":[
+		{"id":"789f85420169f8b4","fromNode":"d680f5d36481c6f2","fromSide":"bottom","toNode":"2469a37cc8a78ce6","toSide":"left"},
+		{"id":"f25d03fd4ca5a49b","fromNode":"2469a37cc8a78ce6","fromSide":"right","toNode":"6867c382b42402c7","toSide":"left"},
+		{"id":"19bb807f9727db1f","fromNode":"4ffff5d7b1c38f94","fromSide":"left","toNode":"d8e65b8cb1175cb2","toSide":"right"},
+		{"id":"9624a0438cfb1a49","fromNode":"d8e65b8cb1175cb2","fromSide":"bottom","toNode":"2045590f602eef38","toSide":"top"},
+		{"id":"990842a429e69da2","fromNode":"bcf8c0a6a819d872","fromSide":"top","toNode":"094c79c78e3dbf87","toSide":"bottom"}
+	]
+}
