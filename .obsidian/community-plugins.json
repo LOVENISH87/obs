@@ -1,4 +1,9 @@
 [
   "highlightr-plugin",
-  "colored-text"
+  "colored-text",
+  "obsidian-excalidraw-plugin",
+  "obsidian-icon-folder",
+  "excalibrain",
+  "mermaid-tools",
+  "execute-code"
 ]
