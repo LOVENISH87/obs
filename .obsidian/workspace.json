@@ -28,17 +28,14 @@
             "id": "1c6bf2991d21cc87",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "reacr redux.canvas",
-                "viewState": {
-                  "x": -922.6852194359938,
-                  "y": -3779.793228600142,
-                  "zoom": 0.5
-                }
+                "file": "GitHub.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "reacr redux"
+              "icon": "lucide-file",
+              "title": "GitHub"
             }
           },
           {
@@ -47,12 +44,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Router DOM___mic.md",
+                "file": "dev_ops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Router DOM___mic"
+              "title": "dev_ops"
+            }
+          },
+          {
+            "id": "dcacec2ba18e9e7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Defeat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Defeat"
             }
           },
           {
@@ -70,21 +81,35 @@
             }
           },
           {
-            "id": "f48bd0a56e899f27",
+            "id": "4a0d2a3e36689ca1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trash.md",
+                "file": "GD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "trash"
+              "title": "GD"
+            }
+          },
+          {
+            "id": "2ffac8f41ebf9586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COntext-api.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COntext-api"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,16 +244,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "trash.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of trash"
             }
           },
           {
-            "id": "a8099d17e42f31d0",
+            "id": "035ed26b784196eb",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -258,46 +284,48 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f48bd0a56e899f27",
+  "active": "dcacec2ba18e9e7a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-01-03 19.09.22.excalidraw.md",
+    "dev_ops.md",
+    "Defeat.md",
+    "CPP again.md",
+    "GD.md",
+    "GitHub.md",
+    "GROUP PROJ!!!.canvas",
+    "Hash-Map.md",
+    "james.md",
+    "HELM!.md",
+    "list.base",
+    "node + mongo.md",
+    "node viva.md",
     "Pasted Image 20260103192431_099.png",
+    "Pasted image 20260105005207.png",
+    "reacr redux.canvas",
+    "Perfix sum!!.md",
+    "Postgress.md",
+    "React Router DOM___mic.md",
+    "trash.md",
+    "timeStamp.md",
+    "sockets .io!!!.canvas",
+    "socket.io.md",
+    "redux !!!.md",
+    "COntext-api.md",
+    "Excalidraw/Drawing 2026-01-03 19.09.22.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Text to Path.svg",
     "Excalidraw/Scripts/Downloaded/Text to Path.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "trash.md",
-    "timeStamp.md",
-    "sockets .io!!!.canvas",
-    "React Router DOM___mic.md",
     "Untitled.base",
     "Untitled 1.base",
     "Excalidraw/Drawing 2026-01-03 19.06.58.excalidraw.md",
     "Excalidraw",
-    "dev_ops.md",
-    "Postgress.md",
-    "reacr redux.canvas",
-    "HELM!.md",
-    "james.md",
     "Pasted image 20260101131807.png",
-    "redux !!!.md",
-    "socket.io.md",
     "redux.react.md",
-    "node viva.md",
     "batman.md",
     "Node version.md",
     "node +   mongo.md",
-    "node + mongo.md",
     "LogiTrack ->.md",
-    "ASCII.md",
-    "CPP again.md",
-    "Perfix sum!!.md",
-    "list.base",
-    "GROUP PROJ!!!.canvas",
     "lc stufff.canvas",
-    "GitHub.md",
-    "Savile-Row-Full-Panel.zip",
-    "Hash-Map.md",
-    "Welcome.md"
+    "Savile-Row-Full-Panel.zip"
   ]
 }

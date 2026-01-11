@@ -7,15 +7,17 @@
 5. git workflow
 6. vc>
 7. ??
-fetch axios!!! {get put}
-redux -> all examples
+
+<mark style="background: #BBFABBA6;">fetch axios</mark>!!! {get <mark style="background: #FF5582A6;">put</mark>}
+<mark style="background: #CACFD9A6;">redux</mark> -> all examples
 
 from validation!
 pagination , 
 form validation -> traditional methods
-useRef and useMemo 
-timer!!
-api fetch useEffect axios and fetch
+<mark style="background: #FFF3A3A6;">useRef</mark> and useMemo 
+<span style="color:rgb(0, 176, 80)">timer</span>!!
+<span style="color:red">api fetch useEffect axios and fetch</span>
+
 data.now()  ?? ?? ?? ?? ?? 
-timer using useEffect , -> > > >> strict mode!! {useref ke sath id??}
+<span style="color:rgb(0, 176, 80)">timer using useEffect , -> > > >> strict mode!! </span>{<mark style="background: #FFB8EBA6;">useref</mark> ke sath id??}
 remember to use some shit -> arrays!!
