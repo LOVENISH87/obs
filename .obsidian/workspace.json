@@ -53,6 +53,18 @@
             }
           },
           {
+            "id": "9b6e751f729097cb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-14 22.11.46.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-14 22.11.46.excalidraw"
+            }
+          },
+          {
             "id": "dcacec2ba18e9e7a",
             "type": "leaf",
             "state": {
@@ -284,13 +296,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dcacec2ba18e9e7a",
+  "active": "9b6e751f729097cb",
   "lastOpenFiles": [
     "dev_ops.md",
+    "Excalidraw/Drawing 2026-01-14 22.11.46.excalidraw.md",
+    "GitHub.md",
     "Defeat.md",
     "CPP again.md",
     "GD.md",
-    "GitHub.md",
     "GROUP PROJ!!!.canvas",
     "Hash-Map.md",
     "james.md",
@@ -324,7 +337,6 @@
     "batman.md",
     "Node version.md",
     "node +   mongo.md",
-    "LogiTrack ->.md",
     "lc stufff.canvas",
     "Savile-Row-Full-Panel.zip"
   ]

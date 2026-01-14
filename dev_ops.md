@@ -21,3 +21,11 @@ form validation -> traditional methods
 data.now()  ?? ?? ?? ?? ?? 
 <span style="color:rgb(0, 176, 80)">timer using useEffect , -> > > >> strict mode!! </span>{<mark style="background: #FFB8EBA6;">useref</mark> ke sath id??}
 remember to use some shit -> arrays!!
+
+
+
+<mark style="background: blue;">getting ready for exam!!</mark>
+
+<mark style="background: #FFB86CA6;">devops</mark> its not a tool -> its a approach where we (software and operation) developers teams word through out whole software lifecycle...
+
+
