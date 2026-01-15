@@ -70,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defeat.md",
+                "file": "HELM!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Defeat"
+              "title": "HELM!"
             }
           },
           {
@@ -121,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -296,12 +296,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9b6e751f729097cb",
+  "active": "dcacec2ba18e9e7a",
   "lastOpenFiles": [
-    "dev_ops.md",
-    "Excalidraw/Drawing 2026-01-14 22.11.46.excalidraw.md",
-    "GitHub.md",
     "Defeat.md",
+    "Excalidraw/Drawing 2026-01-14 22.11.46.excalidraw.md",
+    "dev_ops.md",
+    "GitHub.md",
     "CPP again.md",
     "GD.md",
     "GROUP PROJ!!!.canvas",
