@@ -3,3 +3,13 @@
 --> they say your grades
 -> use cores and async/await for database!!!
 --> you gave him the wrong usb without checking!!
+-> Right now, you are:
+
+- guessing
+    
+- changing symbols
+    
+- hoping logic emerges
+    
+
+That **never works** in programming.

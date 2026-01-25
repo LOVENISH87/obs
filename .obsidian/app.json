@@ -1,4 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "tabSize": 5
+  "tabSize": 4,
+  "vimMode": false,
+  "readableLineLength": false
 }

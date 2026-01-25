@@ -4,5 +4,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-icon-folder",
   "mermaid-tools",
-  "execute-code"
+  "execute-code",
+  "auto-close-tags",
+  "obsidian-html-tags-autocomplete"
 ]
