@@ -13,3 +13,5 @@
     
 
 That **never works** in programming.
+
+-> You’re stuck because you’re thinking **implementation first**. <-< ai is telling me what should i do!! 

@@ -1,5 +1,8 @@
 {
   "baseFontSize": 23,
   "nativeMenus": false,
-  "showRibbon": true
+  "showRibbon": true,
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font"
 }
